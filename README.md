@@ -7,10 +7,13 @@ When beginning with this project, the first thing to keep in mind is that we are
 Every assignment this term needs to have at least 5 classes. With these, think about how to design the classes such that they reduce the amount of work another class needs to do. The idea is if we have “robot” like classes doing the smaller tasks or “jobs”, that by the time we get to a larger class that has more to manage – it will have little left to do! We can achieve this by delegating. Often the over-use of “getters” can cause the opposite to happen – and instead of delegating the managing class has to fundamentally do all of the work itself.
 
 Overview:
+
 Social games have really become popular, whether they are game we watch (e.g., Survivor, the Great Race) or games that we play (e.g., Pokemon Go). The advantage of these games is the unpredictable results. Because there are interactions, we may or may not be able to predict how to win the game, which makes them more interesting to watch and/or play.
 
 Program #1
+
 For Program #1, you will be creating an object oriented program that will create a CS Maze Game that builds upon the social nature of games today. The fundamental rules of this game are outlined below. You are allowed to add more rules to make it as interesting as possible:
+
 1. Multi player game
 2. Each player must be part of a group called a “friends list”; each list must have at least 2 players. Each player within a group moves independently of the group, but information will be shared among group members at times.
 3. Each player will navigate through a Maze beginning from a starting place and ending when the first two players reach the end goal or they are ready to quit
