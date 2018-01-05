@@ -1,5 +1,9 @@
 # cs202_Program1
 
+Programming Assignment #1
+
+CS 202 Programming Systems
+
 Background:
 
 When beginning with this project, the first thing to keep in mind is that we are no longer working on CS163 programs! In CS163 we were concerned about creating Abstract Data Types and the class construct facilitated this. Instead, this term we will be focusing on how to create Object Oriented Solutions. An ADT may be part of that solution – but it certainly shouldn’t be the primary focus. Instead you want to strive for classes to have specific “jobs” and have classes derived from more general classes, whenever appropriate. We will be working in situations where there are multiple classes, so you will want to focus on dividing the design into smaller components that have specific jobs working together to solve the problem.
